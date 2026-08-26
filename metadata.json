@@ -1,0 +1,6 @@
+{
+  "name": "AssetOps",
+  "description": "Company maintenance scheduling, asset lifecycle management, repair logs, real-time technician status tracking, expense records, and maintenance reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
